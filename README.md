@@ -84,7 +84,7 @@ var mesh = new THREE.Mesh(geometry, material)
 scene.add(mesh)
 ```
 
-Possible Improvements
+Possible Improvements 
 =====================
 * the original post from chapman include 'soft particles'
   * i couldnt get it to work
